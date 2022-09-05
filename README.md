@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Cuong Truong Khanh</h1>
-<h3 align="center">A passionate Automation Tester from Hanoi, Vietnam</h3>
+Hi 👋, I'm Cuong Truong Khanh
+A passionate Automation Tester from Hanoi, Vietnam
 
-- 🔭 I’m currently working on **LG Electronics Vietnam**
+- 🔭 I’m currently working at **LG Electronics Vietnam**
 
 - 🌱 I’m currently learning **Selenium Framework**
 
