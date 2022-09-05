@@ -1,5 +1,6 @@
-Hi 👋, I'm Cuong Truong Khanh
-A passionate Automation Tester from Hanoi, Vietnam
+Hi there 👋, I'm Cuong Truong Khanh
+
+- A passionate Automation Tester from Hanoi, Vietnam
 
 - 🔭 I’m currently working at **LG Electronics Vietnam**
 
