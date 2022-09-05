@@ -1,10 +1,10 @@
-Hi there 👋, I'm Cuong Truong Khanh
+Hi there 👋, I'm Truong Khanh Cuong :taurus:
 
 - Automation Tester from Hanoi, Vietnam
 
-- 🔭 I’m currently working at **LG Electronics Vietnam**
+- :office: I’m currently working at **LG Electronics Vietnam**
 
-- 🌱 I’m currently learning **Selenium Framework**, **Robot Framework**
+- :school: I’m currently learning **Selenium Framework**, **Robot Framework**
 
 - :email: How to reach me **khanhcuong.hanu@gmail.com**
 
