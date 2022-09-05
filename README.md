@@ -6,7 +6,7 @@ Hi there 👋, I'm Cuong Truong Khanh
 
 - 🌱 I’m currently learning **Selenium Framework**, **Robot Framework**
 
-- 📫 How to reach me **khanhcuong.hanu@gmail.com**
+- :email: How to reach me **khanhcuong.hanu@gmail.com**
 
 ---
 <h3 align="left">Connect with me:</h3>
