@@ -10,6 +10,7 @@ A passionate Automation Tester from Hanoi, Vietnam
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/truong-khanh-cuong-49695579/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truong khanh cuong" height="30" width="40" /></a>
+<a href="https://fb.com/aloem.laai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aloem.laai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
