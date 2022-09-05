@@ -4,7 +4,7 @@ Hi there 👋, I'm Cuong Truong Khanh
 
 - 🔭 I’m currently working at **LG Electronics Vietnam**
 
-- 🌱 I’m currently learning **Selenium Framework**
+- 🌱 I’m currently learning **Selenium Framework**, **Robot Framework**
 
 - 📫 How to reach me **khanhcuong.hanu@gmail.com**
 
