@@ -2,7 +2,7 @@ Hi there 👋, I'm Truong Khanh Cuong :taurus:
 
 - Automation Tester from Hanoi, Vietnam
 
-- :office: I’m currently working at **LG Electronics Vietnam**
+- :office: I’m currently working as **Chief Research Engineer** at **LG Electronics Vietnam**
 
 - :school: I’m currently learning **Selenium Framework**, **Robot Framework**
 
