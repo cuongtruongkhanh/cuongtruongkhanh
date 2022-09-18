@@ -1,6 +1,6 @@
 Hi there 👋, I'm Truong Khanh Cuong :taurus:
 
-- Automation Tester from Hanoi, Vietnam
+- Senior Automation Tester from Hanoi, Vietnam
 
 - :office: I’m currently working as **Chief Research Engineer** at **LG Electronics Vietnam**
 
