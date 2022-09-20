@@ -8,7 +8,7 @@ Hi there 👋, I'm Truong Khanh Cuong :taurus:
 
 - :email: How to reach me **khanhcuong.hanu@gmail.com**
 
-- :page_with_curl: My sharing corner **www.kclearncode.com**
+- :page_with_curl: This is where I share my knowledge **www.kclearncode.com**
 
 ---
 <h3 align="left">Connect with me:</h3>
